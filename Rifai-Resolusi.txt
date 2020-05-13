@@ -1,0 +1,4 @@
+Rifai Resolusi
+- fokus belajar CI dulu
+- Belajar Git Github
+- Belajar Laravel
